@@ -5,8 +5,8 @@
 -->
 
 - :orange_book: I work in marketing in Higher Education
-- :muscle: I'm currently upskilling for a career change
-- :computer: I’m studying a 16 week intense Skills bootcamp with edX
+- :muscle: Interested in all things Front-End Web Development and looking to upskill in Back-End Development
+- :computer: Graduate of a 16-week edX Front-End Web Development bootcamp
 - :blue_heart: I've discovered a passion for programming, specifically JavaScipt and problem-solving
 - 📫 How to reach me: [click here to email me](mailto:helenecatherinesauve@gmail.com)
 
