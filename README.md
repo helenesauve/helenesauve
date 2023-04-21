@@ -14,6 +14,7 @@
 - :computer: Graduate of a 16-week edX Front-End Web Development bootcamp with ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 - :blue_heart: I've discovered a passion for programming, specifically JavaScript and problem-solving
 - 📫 How to reach me: [click here to email me](mailto:helenecatherinesauve@gmail.com)
+- :thought_balloon: Check out some of the [project I have been working on here](https://helenesauve.github.io/portfolio/).
 
 **My Skills are:**
 
